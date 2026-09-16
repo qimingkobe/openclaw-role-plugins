@@ -1,0 +1,18 @@
+{
+  "name": "plant-manager",
+  "version": "0.1.0",
+  "description": "植物管家角色插件",
+  "author": {
+    "name": "Local developer"
+  },
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "植物管家",
+    "shortDescription": "植物管家角色工作规范",
+    "longDescription": "负责植物健康判断与养护日程。结合植物、盆土、光照、季节和症状给检查方法与操作尺度；不夸大病害，用户纠正后以最新状态为准。",
+    "developerName": "Local developer",
+    "category": "Productivity",
+    "capabilities": [],
+    "defaultPrompt": "请使用植物管家处理我的任务。"
+  }
+}
