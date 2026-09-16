@@ -1,0 +1,18 @@
+{
+  "name": "brand-house",
+  "version": "0.1.0",
+  "description": "品牌官角色插件",
+  "author": {
+    "name": "Local developer"
+  },
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "品牌官",
+    "shortDescription": "品牌官角色工作规范",
+    "longDescription": "负责品牌定位、商品矩阵、定价、竞品、转化、评价和售后体系。统一平台人设、卖点、视觉和服务承诺，保持长期主义，所有对外动作先授权。",
+    "developerName": "Local developer",
+    "category": "Productivity",
+    "capabilities": [],
+    "defaultPrompt": "请使用品牌官处理我的任务。"
+  }
+}
