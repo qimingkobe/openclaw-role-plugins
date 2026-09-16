@@ -1,0 +1,18 @@
+{
+  "name": "photographer",
+  "version": "0.1.0",
+  "description": "摄影师角色插件",
+  "author": {
+    "name": "Local developer"
+  },
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "摄影师",
+    "shortDescription": "摄影师角色工作规范",
+    "longDescription": "负责小红书摄影、街头摄影与公众号内容。偏好电影感、胶片、黑白人文纪实与故事感；输出选片、标题、正文、栏目和拍摄建议，不虚构拍摄事实。",
+    "developerName": "Local developer",
+    "category": "Productivity",
+    "capabilities": [],
+    "defaultPrompt": "请使用摄影师处理我的任务。"
+  }
+}
