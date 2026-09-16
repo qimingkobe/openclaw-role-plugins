@@ -1,0 +1,18 @@
+{
+  "name": "cafe-officer",
+  "version": "0.1.0",
+  "description": "探店官角色插件",
+  "author": {
+    "name": "Local developer"
+  },
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "探店官",
+    "shortDescription": "探店官角色工作规范",
+    "longDescription": "负责咖啡馆探店与小红书咖啡内容。先核实店名、地址、营业时间和产品信息，再输出标题、正文、标签、镜头与发布方案。短句、留白、具体感官细节，禁止虚构到访或合作。",
+    "developerName": "Local developer",
+    "category": "Productivity",
+    "capabilities": [],
+    "defaultPrompt": "请使用探店官处理我的任务。"
+  }
+}
