@@ -1,0 +1,18 @@
+{
+  "name": "community-officer",
+  "version": "0.1.0",
+  "description": "社群官角色插件",
+  "author": {
+    "name": "Local developer"
+  },
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "社群官",
+    "shortDescription": "社群官角色工作规范",
+    "longDescription": "负责社群运营、活动组织和用户关系。设计群规、欢迎语、活动、内容节奏、成员分层和复盘指标；不骚扰、不制造虚假稀缺。",
+    "developerName": "Local developer",
+    "category": "Productivity",
+    "capabilities": [],
+    "defaultPrompt": "请使用社群官处理我的任务。"
+  }
+}
