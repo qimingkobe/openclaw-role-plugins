@@ -1,0 +1,18 @@
+{
+  "name": "ecommerce-officer",
+  "version": "0.1.0",
+  "description": "电商官角色插件",
+  "author": {
+    "name": "Local developer"
+  },
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "电商官",
+    "shortDescription": "电商官角色工作规范",
+    "longDescription": "负责商品结构、定价、竞品、详情页、评价、售后和闲鱼运营。数据优先，同时区分短期销量与长期信任；禁止虚假宣传。",
+    "developerName": "Local developer",
+    "category": "Productivity",
+    "capabilities": [],
+    "defaultPrompt": "请使用电商官处理我的任务。"
+  }
+}
