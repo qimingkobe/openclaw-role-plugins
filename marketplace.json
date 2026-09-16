@@ -1,0 +1,13 @@
+{
+  "name": "openclaw-role-plugins",
+  "interface": {"displayName": "我的角色插件"},
+  "plugins": [
+    {"name":"cafe-officer","source":{"source":"local","path":"./plugins/cafe-officer"},"policy":{"installation":"AVAILABLE","authentication":"ON_INSTALL"},"category":"Productivity"},
+    {"name":"plant-manager","source":{"source":"local","path":"./plugins/plant-manager"},"policy":{"installation":"AVAILABLE","authentication":"ON_INSTALL"},"category":"Productivity"},
+    {"name":"photographer","source":{"source":"local","path":"./plugins/photographer"},"policy":{"installation":"AVAILABLE","authentication":"ON_INSTALL"},"category":"Productivity"},
+    {"name":"coffee-officer","source":{"source":"local","path":"./plugins/coffee-officer"},"policy":{"installation":"AVAILABLE","authentication":"ON_INSTALL"},"category":"Productivity"},
+    {"name":"ecommerce-officer","source":{"source":"local","path":"./plugins/ecommerce-officer"},"policy":{"installation":"AVAILABLE","authentication":"ON_INSTALL"},"category":"Productivity"},
+    {"name":"community-officer","source":{"source":"local","path":"./plugins/community-officer"},"policy":{"installation":"AVAILABLE","authentication":"ON_INSTALL"},"category":"Productivity"},
+    {"name":"brand-house","source":{"source":"local","path":"./plugins/brand-house"},"policy":{"installation":"AVAILABLE","authentication":"ON_INSTALL"},"category":"Productivity"}
+  ]
+}

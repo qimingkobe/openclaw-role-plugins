@@ -1,0 +1,18 @@
+{
+  "name": "brand-house",
+  "version": "0.1.0",
+  "description": "Brand House plugin",
+  "author": {
+    "name": "Local developer"
+  },
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Brand House",
+    "shortDescription": "Use Brand House in Codex.",
+    "longDescription": "Brand House adds a local Codex plugin scaffold.",
+    "developerName": "Local developer",
+    "category": "Productivity",
+    "capabilities": [],
+    "defaultPrompt": "Help me use Brand House."
+  }
+}
